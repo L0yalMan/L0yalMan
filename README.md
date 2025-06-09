@@ -72,7 +72,7 @@
 
 <p><img align="left" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
 <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></p>
-<p align="center" >💪 7+ Years of Development Experience💪<br><br>
+<p align="center" >💪 5+ Years of Development Experience💪<br><br>
 ⚡️ Expertise in Building Modern, Scalable Applications⚡️<br><br>
 🏆 Strong Focus on Usability &amp; Performance 🏆 <br><br>
 🌍 Responsive Designs for All Devices 🌍<br><br>
@@ -90,6 +90,6 @@
 </p><p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p> -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dragon0513}/count.svg"></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{L0yalMan}/count.svg"></p> 
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b>
